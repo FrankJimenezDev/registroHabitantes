@@ -1,0 +1,17 @@
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\bin\Debug\net8.0-windows\RegistroHabitantes.exe
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\bin\Debug\net8.0-windows\RegistroHabitantes.deps.json
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\bin\Debug\net8.0-windows\RegistroHabitantes.runtimeconfig.json
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\bin\Debug\net8.0-windows\RegistroHabitantes.dll
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\bin\Debug\net8.0-windows\RegistroHabitantes.pdb
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\RegistroHabitantes.Form1.resources
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\RegistroHabitantes.csproj.GenerateResource.cache
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\RegistroHabitantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\RegistroHabitantes.AssemblyInfoInputs.cache
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\RegistroHabitantes.AssemblyInfo.cs
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\RegistroHabitantes.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\RegistroHabitantes.sourcelink.json
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\RegistroHabitantes.dll
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\refint\RegistroHabitantes.dll
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\RegistroHabitantes.pdb
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\RegistroHabitantes.genruntimeconfig.cache
+C:\Users\frank\Documents\c#_proyects\Ejercicio Tipo Parcial\registroHabitantes\RegistroHabitantes\RegistroHabitantes\obj\Debug\net8.0-windows\ref\RegistroHabitantes.dll
