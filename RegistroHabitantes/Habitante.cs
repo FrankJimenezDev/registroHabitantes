@@ -10,12 +10,12 @@
 
         public override string ToString()
         {
-            return $"{nombreCompleto};{DNI};{estadoCivil},{fechaNacimiento};{email}";
+            return $"{nombreCompleto};{DNI};{estadoCivil};{fechaNacimiento};{email}";
         }
 
         public static Habitante GetHabitanteFromData(string habitante)
         {
-            var datosHabitante = habitante.Split(',');
+            var datosHabitante = habitante.Split(';');
             return new Habitante()
             {
                 nombreCompleto = datosHabitante[0],
